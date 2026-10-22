@@ -1,0 +1,6 @@
+{
+  "name": "Eventrix - College Club & Event Hub",
+  "description": "A clean, student-friendly platform centralizing college club recruitments, campus events, workshops, and application deadlines into one calm dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
